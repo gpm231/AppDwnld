@@ -2,7 +2,7 @@
 
 Download the latest version of the app here
 
-Current version: 1.0.1
+Current version: 1.0.2
 
 # Update log
 
