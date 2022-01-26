@@ -14,3 +14,4 @@ Current version: 1.0.2
       - Version label at login screen
       - Specific error notifications on each screen
       - Improved layout
+      - Backend improvements
